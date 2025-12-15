@@ -1,7 +1,7 @@
 ## 🌐 OSIVEX · Global News Intelligence & AI RAG System
 
 OSIVEX (Open Source Intelligence Visualization & Exploration) is an AI-driven intelligence and analytics platform that collects, processes, summarizes, and analyzes open-source geopolitical data.
-The system automatically scrapes international media sources across, translates articles, summarizes content, classifies relevance, stores structured data, builds FAISS indexes, and performs advanced LangChain RAG retrieval through a modern Streamlit interface.
+The system automatically scrapes international media sources, translates articles, summarizes content, classifies relevance, stores structured data, builds FAISS indexes, and performs advanced LangChain RAG retrieval through a modern Streamlit interface.
 
 OSIVEX is designed as a fully functional AI analytics product, ideal for portfolio demonstration, interview scenarios, and real-world OSINT applications.
 
